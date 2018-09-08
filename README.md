@@ -56,5 +56,6 @@
 [旧版开源地址](https://guides.github.com/2naive).
 
 ### 联系
-[联系](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=DWBNZmk-ZSNuYmA).
+[联系邮箱](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=DWBNZmk-ZSNuYmA).
+
 --20180908
