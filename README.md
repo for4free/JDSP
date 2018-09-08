@@ -59,7 +59,7 @@
 
 #(重构后的版本，目前还有很多bug，有时间之后再完善，待完善之后一定会开源)
 
-[旧版开源地址](https://guides.github.com/2naive).
+[旧版开源地址](https://github.com/mengf12138/2naive).
 
 ### 联系
 [联系邮箱](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=DWBNZmk-ZSNuYmA).
